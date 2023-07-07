@@ -1,0 +1,48 @@
+.contenedor{      
+    background-image: url('../../assets/portal.jpg');
+    background-size: cover;
+    background-position: center center; 
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    height: 300px;
+    font-size: 25px;
+    font-family: sans-serif;
+    color: rgb(193, 31, 31);;
+    border-radius: 20px;
+}
+
+
+.email{
+    width: 60px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.password{
+    width: 100px;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+.submit{ 
+    background-color: rgba(6, 248, 78, 0.893);
+    border: 4cap black;
+    border-radius: 10px;   
+    width: auto;
+    font-size: 20px;
+    cursor: pointer;    
+}
+
+.ingresar{
+    font-size: 20px;
+    background-color: rgba(16, 244, 84, 0.374);
+    border-radius: 10px;
+}
+
+.submit:hover{
+    font-size: 18px;
+    transition: 0.5s;
+}
+
+

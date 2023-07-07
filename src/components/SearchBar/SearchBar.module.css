@@ -1,0 +1,17 @@
+.buscador{
+    font-size: 20px;
+    background-color: rgb(17, 227, 80);
+    border-radius: 10px;
+    
+}
+
+.buscadorButton {
+  margin-left: 10px; 
+  font-size: 20px;
+  background-color: rgb(17, 227, 80);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+
+

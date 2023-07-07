@@ -1,0 +1,25 @@
+.Detalle{
+    background-color: rgb(17, 227, 80);
+    border-radius: 30px;
+    width: 600px;
+    margin-top: 80px;
+}
+
+.img{
+    padding-top: 20px;
+    border-radius: 15px;
+}
+
+.homeButton1{
+    width: 150px;
+    position: center;
+    font-size: 20px;
+    border-radius: 15px;
+    border: 1px;
+    
+}
+.homeButton1:hover{
+    cursor: pointer;
+    font-size: 18px;
+    transition: 0.5s;
+}
